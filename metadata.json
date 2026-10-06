@@ -1,0 +1,6 @@
+{
+  "name": "LeaseCheck",
+  "description": "Thai dormitory and rental contract checker based on OCPB (สคบ. 2568) regulations with clause risk analysis, utility surcharge calculator, and tenant rights guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
